@@ -1,0 +1,34 @@
+
+html {
+    height: 100%;
+}
+
+body {
+    background-image: linear-gradient(to bottom, lightblue, white, lightblue);
+    background-repeat: no-repeat;
+    
+}
+
+div {
+    padding: 23px;
+    background-color: rgb(255, 228, 177);
+    border: 3px solid rgb(189, 189, 7);
+    width: 250px;
+    margin: 0 auto;
+    margin-top: 300px;
+}
+
+.notetick {
+    background-color: rgb(189, 189, 7);
+    padding: 15px;
+    padding-bottom: 15px;
+    position: absolute;
+    margin-left: -26px;
+    margin-top: -26px;
+    border-bottom-right-radius: 12px;
+}
+
+.text {
+    margin-top: 50px;
+    font-size: 18px;
+}
